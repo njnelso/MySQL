@@ -1,2 +1,2 @@
 # SQL
-^ I'll be back for this later
+MySQL queries and database creation
